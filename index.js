@@ -23,7 +23,7 @@ function johnLennonFacts(factsArr) {
 
 function iLoveTheBeatles(aNum) {
   let anArr3 = [];
-  do () {
+  do {
     anArr3.push("I love the Beatles!")
   } while ()
   return anArr3;
