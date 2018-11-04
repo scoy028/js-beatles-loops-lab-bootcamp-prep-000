@@ -20,3 +20,11 @@ function johnLennonFacts(factsArr) {
   }
   return anArr2;
 }
+
+function iLoveTheBeatles(aNum) {
+  let anArr3 = [];
+  do () {
+    anArr3.push("I love the Beatles!")
+  } while ()
+  return anArr3;
+}
