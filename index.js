@@ -15,7 +15,8 @@ function johnLennonFacts(factsArr) {
   while (i < factsArr.length) {
     let curFact = factsArr[i];
     curFact = curFact + "!!!";
-    /anArr2.push(curFact);
+    anArr2.push(curFact);
+    i++;
   }
   return anArr2;
 }
